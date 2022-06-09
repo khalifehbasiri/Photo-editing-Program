@@ -43,9 +43,12 @@ case are valid inputs.
 
 Credits
 --------
-Khalifeh Basiri: blue_channel / sepia / flip_vertical / interactive_ui /
+Khalifeh Basiri: blue_channel / sepia / flip_vertical / interactive_ui 
+
 Arun Ichsanow: green_channel / combine / three_tone / draw_curve / batch_ui 
-Jason Perrins: red_channel / extreme_contrast / flip_horizontal / interactive_ui / 
+
+Jason Perrins: red_channel / extreme_contrast / flip_horizontal / interactive_ui 
+
 Ephraim Inyang: posterize / detect_edges / batch_ui
 
 
