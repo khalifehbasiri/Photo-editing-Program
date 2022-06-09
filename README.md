@@ -52,9 +52,12 @@ Jason Perrins: red_channel / extreme_contrast / flip_horizontal / interactive_ui
 Ephraim Inyang: posterize / detect_edges / batch_ui
 
 
+
 Photo Editing Software can be reached at:
 
+
 Voice: 613-413-9403
+
 E-mail: khalifabasiri@cmail.carleton.ca
 
 
