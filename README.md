@@ -43,21 +43,13 @@ case are valid inputs.
 
 Credits
 --------
-Khalifeh Basiri: blue_channel / sepia / flip_vertical / interactive_ui 
-
-Arun Ichsanow: green_channel / combine / three_tone / draw_curve / batch_ui 
-
-Jason Perrins: red_channel / extreme_contrast / flip_horizontal / interactive_ui 
-
+Khalifeh Basiri: blue_channel / sepia / flip_vertical / interactive_ui  <br/>
+Arun Ichsanow: green_channel / combine / three_tone / draw_curve / batch_ui <br/>
+Jason Perrins: red_channel / extreme_contrast / flip_horizontal / interactive_ui <br/>
 Ephraim Inyang: posterize / detect_edges / batch_ui
 
-
-
-Photo Editing Software can be reached at:
-
-
-Voice: 613-413-9403
-
+Photo Editing Software can be reached at:<br/>
+Voice: 613-413-9403<br/>
 E-mail: khalifabasiri@cmail.carleton.ca
 
 
